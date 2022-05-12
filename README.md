@@ -27,3 +27,5 @@ It is also mobile friendly and is ready for use.
 Most of this was built by me but some of the aspects were already made. That can be found here: https://github.com/coding-boot-camp/super-disco
 
 ## Screenshot
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/25507661/168182139-13df900d-c476-4144-a397-ac4188bd2aa6.png">
